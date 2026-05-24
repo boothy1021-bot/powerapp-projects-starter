@@ -35,6 +35,8 @@ Fill in `power.config.json` after scaffolding:
 - `appId` — leave `null`; populated automatically on first deploy
 - `appDisplayName` — set by the scaffold script
 
+> **Environment requirement:** The target environment must have code apps enabled. In the Power Platform admin center, go to **Environments → your environment → Settings → Features** and enable **"Allow canvas apps with code first components"**.
+
 ---
 
 ## NPM Scripts (run from inside the project folder)

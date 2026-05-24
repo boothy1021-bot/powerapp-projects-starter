@@ -7,7 +7,8 @@ An opinionated **Vite + TypeScript + React** starter for building Microsoft Powe
 ## Prerequisites
 
 - [Node.js 18+](https://nodejs.org/)
-- A Microsoft 365 / Power Platform account
+- A Microsoft 365 / Power Platform account with access to a Power Platform environment
+- Code apps enabled in your environment — in [Power Platform admin center](https://admin.powerplatform.microsoft.com), go to **Environments → your environment → Settings → Features** and enable **"Allow canvas apps with code first components"** (Code apps / Code canvas apps)
 - A Power Platform environment ID — find yours at [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com) under **Environments → your environment → Details**
 
 ---
