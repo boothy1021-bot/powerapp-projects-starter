@@ -1,0 +1,7 @@
+# Project folders (user's own work — not part of the shared template)
+/*
+!/_template
+!/new-project.ps1
+!/README.md
+!/CLAUDE.md
+!/.gitignore
